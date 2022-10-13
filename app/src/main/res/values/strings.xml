@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="application_name_generic">OSW-APP</string>
-    <string name="title_activity_controlcenter_generic">Open-smartwatch-app</string>
-    <string name="about_activity_title_generic">About Gadgetbridge</string>
+    <string name="title_activity_controlcenter_generic">OSW-APP</string>
+    <string name="about_activity_title_generic">About OSW-APP</string>
     <string name="about_description_generic">Cloudless copylefted libre replacement for closed source Android gadget apps from vendors.</string>
-    <string name="gadgetbridge_running_generic">Gadgetbridge running</string>
+    <string name="gadgetbridge_running_generic">OSW-APP running</string>
 
-    <string name="application_name_banglejs_main">Bangle.js Gadgetbridge</string>
-    <string name="title_activity_controlcenter_banglejs_main">Bangle.js Gadgetbridge</string>
-    <string name="about_activity_title_banglejs_main">About Bangle.js Gadgetbridge</string>
-    <string name="about_description_banglejs_main">Android companion app for Bangle.js built on top of the Gadgetbridge project, with added Internet Access.\n\nDue to Google Play Store policies, we are not allowed a donation link in the app itself, but if you like this app please consider donating via the Gadgetbridge homepage below.</string>
+    <string name="application_name_banglejs_main">Bangle.js OSW-APP</string>
+    <string name="title_activity_controlcenter_banglejs_main">Bangle.js OSW-APP</string>
+    <string name="about_activity_title_banglejs_main">About Bangle.js OSW-APP</string>
+    <string name="about_description_banglejs_main">Android companion app for Bangle.js built on top of the OSW-APP project, with added Internet Access.\n\nDue to Google Play Store policies, we are not allowed a donation link in the app itself, but if you like this app please consider donating via the OSW-APP homepage below.</string>
     <string name="gadgetbridge_running_banglejs_main">Bangle.js running</string>
 
-    <string name="application_name_banglejs_nightly">Bangle.js Gadgetbridge (Nightly)</string>
-    <string name="title_activity_controlcenter_banglejs_nightly">Bangle.js Gadgetbridge (Nightly)</string>
-    <string name="about_activity_title_banglejs_nightly">About Bangle.js Gadgetbridge (Nightly)</string>
-    <string name="about_description_banglejs_nightly">Android companion app for Bangle.js built on top of the Gadgetbridge project, with added Internet Access.\n\nDue to Google Play Store policies, we are not allowed a donation link in the app itself, but if you like this app please consider donating via the Gadgetbridge homepage below.</string>
+    <string name="application_name_banglejs_nightly">Bangle.js OSW-APP (Nightly)</string>
+    <string name="title_activity_controlcenter_banglejs_nightly">Bangle.js OSW-APP (Nightly)</string>
+    <string name="about_activity_title_banglejs_nightly">About Bangle.js OSW-APP (Nightly)</string>
+    <string name="about_description_banglejs_nightly">Android companion app for Bangle.js built on top of the OSW-APP project, with added Internet Access.\n\nDue to Google Play Store policies, we are not allowed a donation link in the app itself, but if you like this app please consider donating via the OSW-APP homepage below.</string>
     <string name="gadgetbridge_running_banglejs_nightly">Nightly Bangle.js running</string>
 
-    <string name="application_name_main_nightly">Gadgetbridge (Nightly)</string>
-    <string name="title_activity_controlcenter_main_nightly">Gadgetbridge Nightly</string>
-    <string name="about_activity_title_main_nightly">About Gadgetbridge Nightly</string>
-    <string name="about_description_main_nightly">Cloudless copylefted libre replacement for closed source Android gadget apps from vendors. Nightly releases of Gadgetbridge. It cannot be installed if you already have either the Gadgetbridge or the Pebble app installed, due to a conflict in the Pebble provider.</string>
+    <string name="application_name_main_nightly">OSW-APP (Nightly)</string>
+    <string name="title_activity_controlcenter_main_nightly">OSW-APP Nightly</string>
+    <string name="about_activity_title_main_nightly">About OSW-APP Nightly</string>
+    <string name="about_description_main_nightly">Cloudless copylefted libre replacement for closed source Android gadget apps from vendors. Nightly releases of OSW-APP. It cannot be installed if you already have either the OSW-APP or the Pebble app installed, due to a conflict in the Pebble provider.</string>
     <string name="gadgetbridge_running_main_nightly">Nightly GB running</string>
 
-    <string name="application_name_main_nopebble">Gadgetbridge (Nightly, No Pebble provider)</string>
-    <string name="title_activity_controlcenter_main_nopebble">Gadgetbridge Nightly No Pebble </string>
-    <string name="about_activity_title_main_nopebble">About Gadgetbridge Nightly No Pebble</string>
-    <string name="about_description_main_nopebble">Cloudless copylefted libre replacement for closed source Android gadget apps from vendors. Nightly releases of Gadgetbridge. This version has the Pebble provider renamed to prevent conflicts, so some Pebble related integrations will not work, but it can be installed alongside existing Gadgetbridge installation.</string>
+    <string name="application_name_main_nopebble">OSW-APP (Nightly, No Pebble provider)</string>
+    <string name="title_activity_controlcenter_main_nopebble">OSW-APP Nightly No Pebble </string>
+    <string name="about_activity_title_main_nopebble">About OSW-APP Nightly No Pebble</string>
+    <string name="about_description_main_nopebble">Cloudless copylefted libre replacement for closed source Android gadget apps from vendors. Nightly releases of OSW-APP. This version has the Pebble provider renamed to prevent conflicts, so some Pebble related integrations will not work, but it can be installed alongside existing OSW-APP installation.</string>
     <string name="gadgetbridge_running_main_nopebble">Nightly NoPebble GB running</string>
 
     <string name="action_settings">Settings</string>
@@ -79,7 +79,7 @@
     <!-- Strings related to Debug Activity -->
     <string name="title_activity_debug">Debug</string>
     <string name="debugactivity_really_factoryreset_title">Really factory reset?</string>
-    <string name="debugactivity_really_factoryreset">Doing a factory reset will delete all data from the connected device (if supported). Xiaomi/Huami devices also change Bluetooth MAC address, so they appear as a new devices to Gadgetbridge.</string>
+    <string name="debugactivity_really_factoryreset">Doing a factory reset will delete all data from the connected device (if supported). Xiaomi/Huami devices also change Bluetooth MAC address, so they appear as a new devices to OSW-APP.</string>
     <!-- Strings related to AppManager -->
     <string name="title_activity_appmanager">App Manager</string>
     <string name="appmanager_cached_watchapps_watchfaces">Apps in cache</string>
@@ -141,9 +141,9 @@
 \n
 \nPROCEED AT YOUR OWN RISK!</string>
     <string name="fw_multi_upgrade_notice">You are about to install the %1$s and %2$s firmware, instead of the ones currently on your Mi Band.</string>
-    <string name="miband_firmware_known">This firmware has been tested and is known to be compatible with Gadgetbridge.</string>
-    <string name="miband_firmware_unknown_warning">"This firmware is untested and may not be compatible with Gadgetbridge.\n\nYou are DISCOURAGED from flashing it!"</string>
-    <string name="miband_firmware_suggest_whitelist">If you still want to proceed and things continue to work properly afterwards, please tell the Gadgetbridge developers to whitelist the %s firmware version.</string>
+    <string name="miband_firmware_known">This firmware has been tested and is known to be compatible with OSW-APP.</string>
+    <string name="miband_firmware_unknown_warning">"This firmware is untested and may not be compatible with OSW-APP.\n\nYou are DISCOURAGED from flashing it!"</string>
+    <string name="miband_firmware_suggest_whitelist">If you still want to proceed and things continue to work properly afterwards, please tell the OSW-APP developers to whitelist the %s firmware version.</string>
     <!-- Strings related to the FwAppInstaller opener activity -->
     <string name="open_fw_installer_info_text">The Firmware/Watchface/App/File Installer allows you to upload/install supported files (firmware, watchfaces, applications, GPS, resources, fonts...) to the device. See some more information in the wiki: https://codeberg.org/Freeyourgadget/Gadgetbridge/wiki/Firmware-Update</string>
     <string name="open_fw_installer_warning_title">Warning</string>
@@ -168,21 +168,21 @@
     <string name="pref_header_time">Time</string>
     <string name="pref_header_workout">Workout</string>
     <string name="pref_header_equalizer">Equalizer</string>
-    <string name="pref_title_general_autoconnectonbluetooth">Connect to Gadgetbridge device when Bluetooth is turned on</string>
+    <string name="pref_title_general_autoconnectonbluetooth">Connect to OSW-APP device when Bluetooth is turned on</string>
     <string name="pref_title_general_autostartonboot">Start automatically</string>
     <string name="pref_title_general_autoreconnect">Reconnect automatically</string>
     <string name="pref_title_audio_player">Preferred Audioplayer</string>
     <string name="pref_default">Default</string>
     <string name="pref_header_datetime">Date and Time</string>
     <string name="pref_title_datetime_syctimeonconnect">Sync time</string>
-    <string name="pref_summary_datetime_syctimeonconnect">Sync time to Gadgetbridge device when connecting, and when time or time zone changes on Android device</string>
+    <string name="pref_summary_datetime_syctimeonconnect">Sync time to OSW-APP device when connecting, and when time or time zone changes on Android device</string>
     <string name="pref_title_theme">Theme</string>
     <string name="pref_theme_light">Light</string>
     <string name="pref_theme_dark">Dark</string>
     <string name="pref_theme_system">System</string>
     <string name="pref_theme_black_background">Use black background in Dark Theme</string>
     <string name="pref_title_language">Language</string>
-    <string name="pref_title_minimize_priority">Hide the Gadgetbridge notification</string>
+    <string name="pref_title_minimize_priority">Hide the OSW-APP notification</string>
     <string name="pref_summary_minimize_priority_off">The icon in the status bar and the notification in the lockscreen are shown</string>
     <string name="pref_summary_minimize_priority_on">The icon in the status bar and the notification in the lockscreen are hidden</string>
     <string name="pref_header_notifications">Notifications</string>
@@ -212,7 +212,7 @@
     <string name="pref_title_transliteration">Transliteration</string>
     <string name="pref_summary_transliteration">Enable this if your device has no support for your language\'s font</string>
     <string name="pref_title_banglejs_text_bitmap">Text as Bitmaps</string>
-    <string name="pref_summary_banglejs_text_bitmap">If a word cannot be rendered with the watch\'s font, render it to a bitmap in Gadgetbridge and display the bitmap on the watch</string>
+    <string name="pref_summary_banglejs_text_bitmap">If a word cannot be rendered with the watch\'s font, render it to a bitmap in OSW-APP and display the bitmap on the watch</string>
     <string name="pref_title_banglejs_txt_bitmap_size">Text Bitmaps Size</string>
     <string name="pref_summary_banglejs_txt_bitmap_size">If \'Text as Bitmaps\' enabled, what size should text be rendered?</string>
     <string name="pref_title_banglejs_webview_url">App loader URL</string>
@@ -235,7 +235,7 @@
     <string name="pref_message_privacy_mode_complete">Hide content</string>
     <string name="pref_title_weather">Weather</string>
     <string name="pref_title_weather_location">Weather location (for LineageOS weather provider)</string>
-    <string name="pref_title_weather_summary">Used for the LineageOS weather provider, other Android versions need to use an app like \"Weather notification\". Find more information in the Gadgetbridge wiki.</string>
+    <string name="pref_title_weather_summary">Used for the LineageOS weather provider, other Android versions need to use an app like \"Weather notification\". Find more information in the OSW-APP wiki.</string>
     <string name="pref_applications_settings">Applications list</string>
     <string name="pref_blacklist_calendars">Blacklist Calendars</string>
     <string name="pref_blacklist_calendars_summary">Blacklisted calendars will not be synced to the device</string>
@@ -264,7 +264,7 @@
     <string name="pref_title_enable_calendar_sync">Sync calendar</string>
     <string name="pref_summary_enable_calendar_sync">Send calendar events to the timeline</string>
     <string name="pref_title_custom_deviceicon">Show device specific notification icon</string>
-    <string name="pref_summary_custom_deviceicon">Show a device specific Android notification icon instead the Gadgetbridge icon when connected</string>
+    <string name="pref_summary_custom_deviceicon">Show a device specific Android notification icon instead the OSW-APP icon when connected</string>
     <string name="pref_title_autoremove_notifications">Autoremove dismissed notifications</string>
     <string name="pref_summary_autoremove_notifications">Notifications are automatically removed from the device when dismissed from the phone</string>
     <string name="pref_title_screen_on_on_notifications">Screen On on Notifications</string>
@@ -292,13 +292,13 @@
     <string name="pref_title_pebble_enable_applogs">Enable watch app logging</string>
     <string name="pref_title_pebble_gatt_clientonly">GATT client only</string>
     <string name="pref_summary_pebble_gatt_clientonly">This is for Pebble 2 only and experimental, try this if you have connectivity problems</string>
-    <string name="pref_summary_pebble_enable_applogs">Will cause logs from watch apps to be logged by Gadgetbridge (requires reconnect)</string>
+    <string name="pref_summary_pebble_enable_applogs">Will cause logs from watch apps to be logged by OSW-APP (requires reconnect)</string>
     <string name="pref_title_pebble_always_ack_pebblekit">Prematurely ACK PebbleKit</string>
     <string name="pref_summary_pebble_always_ack_pebblekit">Will cause messages that are sent to external 3rd party apps to be acknowledged always and immediately</string>
     <string name="pref_title_pebble_enable_bgjs">Enable background JS</string>
     <string name="pref_summary_pebble_enable_bgjs">When enabled, allows watchfaces to show weather, battery info etc.</string>
     <string name="pref_title_pebble_reconnect_attempts">Reconnection attempts</string>
-    <string name="pref_summary_expose_hr">Allows other apps to access HR data in realtime while Gadgetbridge is connected</string>
+    <string name="pref_summary_expose_hr">Allows other apps to access HR data in realtime while OSW-APP is connected</string>
     <string name="pref_title_expose_hr">3rd party realtime HR access</string>
     <string name="pref_title_connected_advertisement">Visible while connected</string>
     <string name="pref_summary_connected_advertisement">Makes the device discoverable via Bluetooth even when connected</string>
@@ -443,7 +443,7 @@
     <string name="unknown">Unknown</string>
     <string name="test">Test</string>
     <string name="test_notification">Test notification</string>
-    <string name="this_is_a_test_notification_from_gadgetbridge">This is a test notification from Gadgetbridge</string>
+    <string name="this_is_a_test_notification_from_gadgetbridge">This is a test notification from OSW-APP</string>
     <string name="find_my_phone_notification">Find my phone</string>
     <string name="bluetooth_is_not_supported_">Bluetooth is not supported.</string>
     <string name="bluetooth_is_disabled_">Bluetooth is disabled.</string>
@@ -489,7 +489,7 @@
     <string name="miband_pairing_using_dummy_userdata">No valid user data given, using dummy user data for now.</string>
     <string name="miband_pairing_tap_hint">When your Mi Band vibrates and blinks, tap it a few times in a row.</string>
     <string name="appinstaller_install">Install</string>
-    <string name="discovery_connected_devices_hint">Make your device discoverable. Currently connected devices will likely not be discovered. Activate location (e.g. GPS) on Android 6+. Disable Privacy Guard for Gadgetbridge, because it may crash and reboot your phone. If no device is found after a few minutes, try again after rebooting your mobile device.</string>
+    <string name="discovery_connected_devices_hint">Make your device discoverable. Currently connected devices will likely not be discovered. Activate location (e.g. GPS) on Android 6+. Disable Privacy Guard for OSW-APP, because it may crash and reboot your phone. If no device is found after a few minutes, try again after rebooting your mobile device.</string>
     <string name="discovery_need_to_enter_authkey">This device needs a secret auth key, long press on the device to enter it. Read the wiki.</string>
     <string name="discovery_entered_invalid_authkey">The secret auth key you entered is invalid! Long press on the device to edit.</string>
     <string name="discovery_note">Note:</string>
@@ -906,7 +906,7 @@
     <string name="pref_summary_pebble_health_store_raw">Stores the data \"as is\", increasing the database usage to allow for later interpretation.</string>
     <string name="action_db_management">Data management</string>
     <string name="title_activity_db_management">Data management</string>
-    <string name="activity_db_management_import_export_explanation">The export/import operations use the following path (see below) to a directory on your device. This directory is accessible to other Android apps and your computer. Do note, that this directory and all containing files are deleted if you uninstall Gadgetbridge. The data includes:\n Export_preference - global settings\n Export_preference_MAC - device specific settings\n Gadgetbridge - device and activity database\n Gadgetbridge_date - database exported on a date\n *.gpx - GPS recordings\n *.log - log files\nExpect to find your exported files (or place the files you want to import) there:</string>
+    <string name="activity_db_management_import_export_explanation">The export/import operations use the following path (see below) to a directory on your device. This directory is accessible to other Android apps and your computer. Do note, that this directory and all containing files are deleted if you uninstall OSW-APP. The data includes:\n Export_preference - global settings\n Export_preference_MAC - device specific settings\n OSW-APP - device and activity database\n OSW-APP - database exported on a date\n *.gpx - GPS recordings\n *.log - log files\nExpect to find your exported files (or place the files you want to import) there:</string>
     <string name="activity_db_management_merge_old_title">Legacy database delete</string>
     <string name="dbmanagementactivvity_cannot_access_export_path">Cannot access export path. Please contact the developers.</string>
     <string name="dbmanagementactivity_exported_to">Exported to: %1$s</string>
@@ -1154,7 +1154,7 @@
     <string name="notification_channel_transfer_name">Data transfer</string>
     <string name="notification_channel_low_battery_name">Low battery</string>
     <string name="notification_channel_gps">GPS tracking</string>
-    <string name="notification_gps_title">Gadgetbridge GPS</string>
+    <string name="notification_gps_title">OSW-APP GPS</string>
     <string name="notification_gps_text">Sending GPS location to %1$d devices</string>
     <string name="devicetype_amazfit_gts">Amazfit GTS</string>
     <string name="devicetype_amazfit_vergel">Amazfit Verge Lite</string>
@@ -1217,7 +1217,7 @@
     <string name="pref_summary_contextual_arabic">Enable this to support contextual Arabic</string>
     <string name="preferences_rtl_settings">Right To Left Support</string>
     <string name="share_log">Share log</string>
-    <string name="share_log_warning">Please keep in mind Gadgetbridge logs files that may contain lots of personal info, including but not limited to health data, unique identifiers (such as a device\'s MAC address), music preferences, etc. Consider editing the file and removing this info before sending the file to a public issue report.</string>
+    <string name="share_log_warning">Please keep in mind OSW-APP logs files that may contain lots of personal info, including but not limited to health data, unique identifiers (such as a device\'s MAC address), music preferences, etc. Consider editing the file and removing this info before sending the file to a public issue report.</string>
     <string name="share_log_not_enabled_message">You must first enable logging in the Settings - Write log files</string>
     <string name="warning">Warning!</string>
     <string name="note">Note</string>
@@ -1311,7 +1311,7 @@
     <string name="about_title">About</string>
     <string name="about_version">Version %s</string>
     <string name="about_hash">Commit %s</string>
-    <string name="gpx_receiver_activity_title">GPX Receiver Gadgetbridge</string>
+    <string name="gpx_receiver_activity_title">GPX Receiver OSW-APP</string>
     <string name="gpx_receiver_files_received">GPX file(s) received:</string>
     <string name="gpx_receiver_overwrite_some_files">Some file(s) already exist. Overwrite?</string>
     <string name="about_core_team_title">Core Team (in order of first code contribution)</string>
@@ -1329,7 +1329,7 @@
     <string name="error_version_check_extreme_caution">CAUTION: Error when checking version information! You should not continue! Saw version name \"%s\"</string>
     <string name="require_location_provider">Location must be enabled</string>
     <string name="companiondevice_pairing">CompanionDevice Pairing</string>
-    <string name="companiondevice_pairing_details">Enables the new CompanionDevice API support (only has an effect on Android 8 or above) which will increase reliability if the service needs to be restarted in the background, requires re-pairing using Gadgetbridge to have an effect</string>
+    <string name="companiondevice_pairing_details">Enables the new CompanionDevice API support (only has an effect on Android 8 or above) which will increase reliability if the service needs to be restarted in the background, requires re-pairing using OSW-APP to have an effect</string>
     <string name="error_background_service">Failed to start background service</string>
     <string name="error_background_service_reason_truncated">Starting the background service failed because…</string>
     <string name="device_is_currently_bonded">ALREADY BONDED</string>
