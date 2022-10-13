@@ -25,7 +25,7 @@
             android:layout_height="100dp"
             android:layout_marginStart="35dp"
             android:layout_marginTop="35dp"
-            app:srcCompat="@drawable/gadgetbridge_img" />
+            app:srcCompat="@drawable/ic_osw_mark" />
 
         <ProgressBar
             android:layout_width="171dp"
@@ -71,7 +71,7 @@
             <ImageView
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@drawable/gadgetbridge_img" />
+                app:srcCompat="@drawable/ic_osw_mark" />
 
             <include layout="@layout/layout_widget_activities_count" />
 

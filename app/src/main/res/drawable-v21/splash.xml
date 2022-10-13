@@ -6,6 +6,6 @@
 
     <item
         android:gravity="center"
-        android:drawable="@drawable/gadgetbridge_img"/>
+        android:drawable="@drawable/ic_osw_mark"/>
 
 </layer-list>

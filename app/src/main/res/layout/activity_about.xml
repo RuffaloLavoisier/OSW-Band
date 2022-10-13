@@ -13,7 +13,7 @@
         android:alpha="0.1"
         android:contentDescription="@string/icon_placeholder"
         app:tint="?attr/textColorPrimary"
-        app:srcCompat="@drawable/gadgetbridge_img" />
+        app:srcCompat="@drawable/ic_osw_mark" />
 
     <ScrollView
         android:id="@+id/about_background"
