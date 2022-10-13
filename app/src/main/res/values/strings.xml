@@ -1077,6 +1077,7 @@
     <string name="devicetype_unknown">Unknown Device</string>
     <string name="devicetype_test">Test Device</string>
     <string name="add_test_device">Add test device</string>
+    <string name="devicetype_open_smartwatch">Open smartwatch</string>
     <string name="devicetype_pebble">Pebble</string>
     <string name="devicetype_miband">Mi Band</string>
     <string name="devicetype_miband2">Mi Band 2</string>
